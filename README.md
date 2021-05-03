@@ -15,5 +15,8 @@ In the current version, the ipaddress of the printer must be hardcoded into the 
 Feature wish list:
 - monitoring the printer from the Cura monitoring tab
 - monitoring by camera, temperature, estimated remaining time, progress percentage
-- preferences menu, for ip-address or multiple
+- preferences menu, for ip-address or multiple ip-addresses to choose from
+- error detection, so if the printer can't be found, that cura won't crash, but just reports the printer can't be found.
+- print a small amount of filament in the frontside left corner, before starting the rest of the print, so oozing filament from warming up is out of the way.
 - include proven working settings for materials, that can be bought again and again in the same quality. So the manufacturer and the exact type(number) must be known and one or more websites/stores where it can be bought. The aim of this is that we can spend less time adjusting settings and be more creative.
+
