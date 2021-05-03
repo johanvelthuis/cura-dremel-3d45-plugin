@@ -1,6 +1,8 @@
 # cura-dremel-3d45-plugin
 This is an open source effort to work with the dremel 3d45 over a network/wifi connection with recent Cura versions.
 
+ATTENTION PLEASE!! THIS PROJECT IS NOT USABLE YET. PLEASE WAIT A FEW WEEKS UNTIL THIS NOTICE IS GONE. 
+
 May 2021 - Hello, last year I worked on a private project, so I could use my Dremel 3d45 printer with a more modern slicer than the one that is supplied by the manufacturer. 
 I don't want to take all the credit for this plugin. I used stuff from numerous websites and other github projects to get this to the current state.
 
