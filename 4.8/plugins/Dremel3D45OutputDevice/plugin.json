@@ -1,0 +1,8 @@
+{
+    "name": "Dremel3D45 Output Device",
+    "description": "Enables saving to local files. TODO Send over network to printer",
+    "author": "Johan Velthuis",
+    "version": "1.0.1",
+    "api": "7.4.0",
+    "i18n-catalog": "uranium"
+}
